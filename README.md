@@ -1,8 +1,8 @@
 # Car Customizer
 
-It's a simple application to simulate car customization by selecting car model, engine, gearbox and color. All kept in 80's style ;) 
+It's a simple application to simulate car customization by selecting car model, engine, gearbox and color. All styling has been kept in 80's style ;) 
 
-**Important: this app will work only with backend application, which has to be cloned and ran on your computer. You can find it [here](https://github.com/vveronika/car-customizer-backend). **
+**Important: this app will work only with backend application, which has to be cloned and ran on your computer. You can find it [here](https://github.com/vveronika/car-customizer-backend).**
 
 For now missing things are: tests and errors handling (like some toasts if backend app would crush or sth).
 
@@ -14,7 +14,6 @@ will install all required dependencies, and
 **npm start**
 will run the app. It should run on port 3000. 
 
-## The most important libraries and tools I used in this project:**
 **The most important libraries and tools I used in this project:**
  - [React](https://reactjs.org/)
  - [Typescript](https://www.typescriptlang.org/)
