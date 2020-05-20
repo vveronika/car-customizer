@@ -14,7 +14,7 @@ will install all required dependencies, and
 **npm start**
 will run the app. It should run on port 3000. 
 
-**The most important libraries and tools I used in this project:**
+## The most important libraries and tools I used in this project:
  - [React](https://reactjs.org/)
  - [Typescript](https://www.typescriptlang.org/)
  - [Styled Components](https://styled-components.com/)
